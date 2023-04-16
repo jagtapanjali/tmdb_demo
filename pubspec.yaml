@@ -51,6 +51,7 @@ dev_dependencies:
   cached_network_image: ^3.1.0
   fluttertoast: ^8.0.8
   http: ^0.13.3
+  url_launcher: ^6.1.10
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
